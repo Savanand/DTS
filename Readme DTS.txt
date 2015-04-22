@@ -9,6 +9,14 @@ iii.	common_server- to save uploaded common server files on disk.
 iv.	file- to save files uploaded for bugs on disk.
 
 
+Install MYSQL database on your system. 5.5 version preferred.
+
+Open db_dts.SQL file in notepad. Copy all the contents of the file on the MYSQL command prompt.
+Close the command prompt.
+
+
+
+
 Run the program
 
 1.	to open log-in page in mozilla
@@ -16,4 +24,6 @@ Run the program
 http://localhost:8080/DTS/Home.jsp
 
 2.	for best use always use Windows XP and Mozilla firefox as browser.
+
+
 
