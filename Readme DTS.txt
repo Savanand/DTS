@@ -16,14 +16,19 @@ Close the command prompt.
 
 
 
-
 Run the program
 
 1.	to open log-in page in mozilla
 
 http://localhost:8080/DTS/Home.jsp
 
-2.	for best use always use Windows XP and Mozilla firefox as browser.
+2. 	Admin login is
+
+username-	PMADM00001
+password-	admin1
+
+2. 	Check for new logins in Database
+
 
 
 
